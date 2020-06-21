@@ -61,6 +61,7 @@ dmenu
 ukui
 mate-terminal
 qt5-quickcontrols
+redshift
 )
 
 count=0
