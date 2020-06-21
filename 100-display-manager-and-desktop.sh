@@ -60,10 +60,9 @@ arcolinux-local-xfce4-git
 ukui
 mate-terminal
 mate-system-monitor
-#qt5-quickcontrols
 redshift
 gnome-screenshot
-#arcolinux-qt5-git
+arcolinux-qt5-git
 accountsservice
 )
 
