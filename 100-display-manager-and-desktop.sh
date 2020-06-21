@@ -60,6 +60,7 @@ arcolinux-local-xfce4-git
 dmenu
 ukui
 mate-terminal
+mate-system-monitor
 qt5-quickcontrols
 redshift
 gnome-screenshot
