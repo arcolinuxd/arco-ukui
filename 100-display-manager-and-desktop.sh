@@ -57,14 +57,13 @@ thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-dmenu
 ukui
 mate-terminal
 mate-system-monitor
-qt5-quickcontrols
+#qt5-quickcontrols
 redshift
 gnome-screenshot
-arcolinux-qt5-git
+#arcolinux-qt5-git
 accountsservice
 )
 
