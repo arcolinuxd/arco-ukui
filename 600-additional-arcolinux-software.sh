@@ -55,9 +55,9 @@ func_category() {
 func_category Arcolinux-Desktop
 
 list=(
-arcolinux-ukui
-arcolinux-config-ukui
-arcolindu-ukui-dconf
+arcolinux-ukui-git
+arcolinux-config-ukui-git
+arcolindu-ukui-dconf-git
 )
 
 count=0
