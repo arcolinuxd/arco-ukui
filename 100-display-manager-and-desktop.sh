@@ -63,6 +63,7 @@ mate-terminal
 qt5-quickcontrols
 redshift
 gnome-screenshot
+arcolinux-qt5-git
 )
 
 count=0
