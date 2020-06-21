@@ -62,6 +62,7 @@ ukui
 mate-terminal
 qt5-quickcontrols
 redshift
+gnome-screenshot
 )
 
 count=0
