@@ -65,6 +65,7 @@ qt5-quickcontrols
 redshift
 gnome-screenshot
 arcolinux-qt5-git
+accountsservice
 )
 
 count=0
