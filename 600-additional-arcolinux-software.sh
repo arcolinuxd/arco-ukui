@@ -73,6 +73,7 @@ func_category Arcolinux-General
 list=(
 arcolinux-bin-git
 arcolinux-hblock-git
+arcolinux-local-applications-git
 arcolinux-root-git
 arcolinux-termite-themes-git
 arcolinux-tweak-tool-git
