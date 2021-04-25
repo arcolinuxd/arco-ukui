@@ -47,9 +47,7 @@ echo "Installation of the core software"
 ###############################################################################
 
 list=(
-lightdm
-arcolinux-lightdm-gtk-greeter
-arcolinux-lightdm-gtk-greeter-settings
+sddm
 arcolinux-wallpapers-git
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
@@ -87,10 +85,10 @@ cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 cp -arf /etc/skel/. ~
 
 tput setaf 5;echo "################################################################"
-echo "Enabling lightdm as display manager"
+echo "Enabling sddm as display manager"
 echo "################################################################"
 echo;tput sgr0
-sudo systemctl enable lightdm.service -f
+sudo systemctl enable sddm.service -f
 
 tput setaf 2;echo "################################################################"
 echo "Removing packages we do not want"
