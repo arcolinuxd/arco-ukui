@@ -49,7 +49,7 @@ echo "Installation of the core software"
 list=(
 sddm
 arcolinux-wallpapers-git
-arcolinux-xfce-git
+arconet-xfce
 arcolinux-local-xfce4-git
 arcolinux-qt5-git
 thunar
